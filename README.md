@@ -121,5 +121,5 @@ Feel free to fork, improve, and share.
 
 ## 👨‍💻 Author
 
-Built with ❤️ by **[Your Name]**  
-Let's connect: [LinkedIn](https://linkedin.com/in/yourprofile)
+Built with ❤️ by **Rohan Reddy**  
+Let's connect: [LinkedIn](https://www.linkedin.com/in/rohan-reddy-78a68b213/)
