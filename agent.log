@@ -1,0 +1,55 @@
+[2025-06-04 15:15:01.168209] ACTION: get_cpu_usage
+RESULT: CPU usage is 3.5%
+
+[2025-06-04 15:15:07.044282] ACTION: get_memory_usage
+RESULT: Memory usage: 81.5% of 8.0 GB
+
+[2025-06-04 15:15:17.184581] ACTION: get_disk_usage
+RESULT: Disk usage: 77.2% (158.27 GB used / 228.27 GB total)
+
+[2025-06-04 15:16:08.086397] ACTION: get_ip_address
+RESULT: IP Address: 192.168.86.81
+
+[2025-06-04 15:18:05.385883] ACTION: get_clipboard
+RESULT: python3 app.py
+
+
+[2025-06-04 15:18:20.790672] ACTION: list_files(/Users/rohanreddy/Desktop/os)
+RESULT: .DS_Store
+myvenv
+__pycache__
+agent.py
+app.py
+os_tools.py
+agent.log
+
+[2025-06-04 16:17:22.760694] ACTION: create_file(/Users/rohanreddy/Desktop/os/notess.txt)
+RESULT: File '/Users/rohanreddy/Desktop/os/notess.txt' created.
+
+[2025-06-04 16:17:51.548896] ACTION: read_file(/Users/rohanreddy/Desktop/os/text.txt)
+RESULT: [ERROR] [Errno 2] No such file or directory: '/Users/rohanreddy/Desktop/os/text.txt'
+
+[2025-06-04 16:20:55.542384] ACTION: get_uptime
+RESULT: System uptime: 20365 minutes
+
+[2025-06-04 16:21:04.247465] ACTION: get_memory_usage
+RESULT: Memory usage: 81.5% of 8.0 GB
+
+[2025-06-04 16:21:39.987209] ACTION: create_file(/Users/rohanreddy/Desktop/os/rohan.txt)
+RESULT: File '/Users/rohanreddy/Desktop/os/rohan.txt' created.
+
+[2025-06-04 16:22:24.223589] ACTION: create_file(/Users/rohanreddy/Desktop/os/tohan.txt)
+RESULT: File '/Users/rohanreddy/Desktop/os/tohan.txt' created.
+
+[2025-06-04 16:22:32.818391] ACTION: delete_file(/Users/rohanreddy/Desktop/os/tohan.txt)
+RESULT: File '/Users/rohanreddy/Desktop/os/tohan.txt' deleted.
+
+[2025-06-04 16:25:51.932007] ACTION: get_ip_address
+RESULT: IP Address: 192.168.86.81
+
+[2025-06-04 16:26:59.875118] ACTION: get_os_info
+RESULT: OS: Darwin 24.5.0, Version: Darwin Kernel Version 24.5.0: Tue Apr 22 19:48:46 PDT 2025; root:xnu-11417.121.6~2/RELEASE_ARM64_T8103
+
+[2025-06-04 16:27:40.517381] ACTION: get_cpu_usage
+RESULT: CPU usage is 3.7%
+
